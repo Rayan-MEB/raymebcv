@@ -1,6 +1,6 @@
 ---
 title: "A propos de moi"
-order: 1
+order: 2
 in_menu: true
 ---
 <section class="about">
