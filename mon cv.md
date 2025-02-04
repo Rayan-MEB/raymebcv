@@ -1,9 +1,11 @@
 ---
-title: "mon CV"
+title: "Mon CV"
 order: 1
 in_menu: true
 ---
-<h2>Formation</h2>
+<section class="education">
+    <div class="container">
+        <h2>Formation</h2>
         <div class="degree">
             <h3>Formation TAI (Technicien Assistance Informatique)</h3>
             <p><strong>oCCIgène formation - Villefontaine</strong> – 2024 - 2025</p>
@@ -50,4 +52,6 @@ in_menu: true
                 <li>???</li>
                 <li>???</li>
             </ul>
-        </div> 
+        </div>
+    </div>
+</section> 
