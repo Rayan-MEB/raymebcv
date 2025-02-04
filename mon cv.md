@@ -1,6 +1,6 @@
 ---
 title: "Mon CV"
-order: 3
+order: 2
 in_menu: true
 ---
 <section class="education">
